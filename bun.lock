@@ -5,14 +5,14 @@
     "": {
       "name": "@sudobility/testomniac-bot",
       "dependencies": {
-        "@anthropic-ai/sdk": "^0.39.0",
-        "@octokit/app": "^15.1.2",
-        "@octokit/webhooks": "^13.4.2",
-        "hono": "^4.7.5",
+        "@anthropic-ai/sdk": "~0.39.0",
+        "@octokit/app": "~15.1.6",
+        "@octokit/webhooks": "~13.9.1",
+        "hono": "~4.12.9",
       },
       "devDependencies": {
-        "@types/bun": "^1.2.5",
-        "typescript": "^5.7.3",
+        "@types/bun": "~1.3.11",
+        "typescript": "~5.9.3",
       },
     },
   },
