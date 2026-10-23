@@ -1,7 +1,7 @@
 {
   "name": "@sudobility/testomniac-bot",
   "description": "Testomniac GitHub webhook and code review bot",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "BUSL-1.1",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "@anthropic-ai/sdk": "~0.39.0",
     "@octokit/app": "~15.1.6",
     "@octokit/webhooks": "~13.9.1",
-    "hono": "~4.12.9"
+    "hono": "~4.11.5"
   },
   "devDependencies": {
     "@types/bun": "~1.3.11",
